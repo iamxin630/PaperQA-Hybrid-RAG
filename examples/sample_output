@@ -1,0 +1,800 @@
+[
+  {
+    "title": "Robust Named Entity Recognition in Idiosyncratic Domains",
+    "answer": 954,
+    "evidence": [
+      "1",
+      "22"
+    ]
+  },
+  {
+    "title": "Offensive Language Detection: A Comparative Analysis",
+    "answer": 706,
+    "evidence": [
+      "1"
+    ]
+  },
+  {
+    "title": "Word2Vec: Optimal Hyper-Parameters and Their Impact on NLP Downstream Tasks",
+    "answer": 924,
+    "evidence": [
+      "1",
+      "22"
+    ]
+  },
+  {
+    "title": "Measuring Offensive Speech in Online Political Discourse",
+    "answer": 778,
+    "evidence": [
+      "1"
+    ]
+  },
+  {
+    "title": "Template-free Data-to-Text Generation of Finnish Sports News",
+    "answer": 592,
+    "evidence": [
+      "1"
+    ]
+  },
+  {
+    "title": "ReviewQA: a relational aspect-based opinion reading dataset",
+    "answer": 969,
+    "evidence": [
+      "1",
+      "22"
+    ]
+  },
+  {
+    "title": "Affective Behaviour Analysis of On-line User Interactions: Are On-line Support Groups more Therapeutic than Twitter?",
+    "answer": 689,
+    "evidence": [
+      "1",
+      "22"
+    ]
+  },
+  {
+    "title": "Identification of Indian Languages using Ghost-VLAD pooling",
+    "answer": 716,
+    "evidence": [
+      "1"
+    ]
+  },
+  {
+    "title": "Identifying Radiological Findings Related to COVID-19 from Medical Literature",
+    "answer": 603,
+    "evidence": [
+      "1",
+      "22"
+    ]
+  },
+  {
+    "title": "A Question-Entailment Approach to Question Answering",
+    "answer": 650,
+    "evidence": [
+      "1"
+    ]
+  },
+  {
+    "title": "An Evaluation Dataset for Intent Classification and Out-of-Scope Prediction",
+    "answer": 545,
+    "evidence": [
+      "1"
+    ]
+  },
+  {
+    "title": "Pretraining-Based Natural Language Generation for Text Summarization",
+    "answer": 895,
+    "evidence": [
+      "1",
+      "22",
+      "333"
+    ]
+  },
+  {
+    "title": "What does Attention in Neural Machine Translation Pay Attention to?",
+    "answer": 877,
+    "evidence": [
+      "1"
+    ]
+  },
+  {
+    "title": "Stochastic Answer Networks for SQuAD 2.0",
+    "answer": 898,
+    "evidence": [
+      "1"
+    ]
+  },
+  {
+    "title": "Improving Distributed Representations of Tweets - Present and Future",
+    "answer": 754,
+    "evidence": [
+      "1"
+    ]
+  },
+  {
+    "title": "Multi-class Hierarchical Question Classification for Multiple Choice Science Exams",
+    "answer": 682,
+    "evidence": [
+      "1",
+      "22"
+    ]
+  },
+  {
+    "title": "Prepositional Attachment Disambiguation Using Bilingual Parsing and Alignments",
+    "answer": 773,
+    "evidence": [
+      "1"
+    ]
+  },
+  {
+    "title": "Entity Commonsense Representation for Neural Abstractive Summarization",
+    "answer": 720,
+    "evidence": [
+      "1"
+    ]
+  },
+  {
+    "title": "Incorporating Subword Information into Matrix Factorization Word Embeddings",
+    "answer": 610,
+    "evidence": [
+      "1",
+      "22",
+      "333"
+    ]
+  },
+  {
+    "title": "Combining Advanced Methods in Japanese-Vietnamese Neural Machine Translation",
+    "answer": 933,
+    "evidence": [
+      "1",
+      "22",
+      "333"
+    ]
+  },
+  {
+    "title": "Neural Collective Entity Linking",
+    "answer": 513,
+    "evidence": [
+      "1",
+      "22",
+      "333"
+    ]
+  },
+  {
+    "title": "Massively Multilingual Neural Grapheme-to-Phoneme Conversion",
+    "answer": 883,
+    "evidence": [
+      "1",
+      "22",
+      "333"
+    ]
+  },
+  {
+    "title": "Ensemble based discriminative models for Visual Dialog Challenge 2018",
+    "answer": 951,
+    "evidence": [
+      "1",
+      "22",
+      "333"
+    ]
+  },
+  {
+    "title": "Is change the only constant? Profile change perspective on #LokSabhaElections2019",
+    "answer": 819,
+    "evidence": [
+      "1"
+    ]
+  },
+  {
+    "title": "GlossBERT: BERT for Word Sense Disambiguation with Gloss Knowledge",
+    "answer": 956,
+    "evidence": [
+      "1",
+      "22",
+      "333"
+    ]
+  },
+  {
+    "title": "Dice Loss for Data-imbalanced NLP Tasks",
+    "answer": 755,
+    "evidence": [
+      "1",
+      "22"
+    ]
+  },
+  {
+    "title": "Generating Word and Document Embeddings for Sentiment Analysis",
+    "answer": 581,
+    "evidence": [
+      "1"
+    ]
+  },
+  {
+    "title": "Context-Aware Monolingual Repair for Neural Machine Translation",
+    "answer": 781,
+    "evidence": [
+      "1",
+      "22"
+    ]
+  },
+  {
+    "title": "Towards a Continuous Knowledge Learning Engine for Chatbots",
+    "answer": 504,
+    "evidence": [
+      "1",
+      "22"
+    ]
+  },
+  {
+    "title": "Improving the Performance of Neural Machine Translation Involving Morphologically Rich Languages",
+    "answer": 652,
+    "evidence": [
+      "1",
+      "22"
+    ]
+  },
+  {
+    "title": "Embracing data abundance: BookTest Dataset for Reading Comprehension",
+    "answer": 705,
+    "evidence": [
+      "1",
+      "22",
+      "333"
+    ]
+  },
+  {
+    "title": "Sparse and Constrained Attention for Neural Machine Translation",
+    "answer": 803,
+    "evidence": [
+      "1",
+      "22"
+    ]
+  },
+  {
+    "title": "Addressing word-order Divergence in Multilingual Neural Machine Translation for extremely Low Resource Languages",
+    "answer": 598,
+    "evidence": [
+      "1",
+      "22",
+      "333"
+    ]
+  },
+  {
+    "title": "Clustering Comparable Corpora of Russian and Ukrainian Academic Texts: Word Embeddings and Semantic Fingerprints",
+    "answer": 631,
+    "evidence": [
+      "1",
+      "22"
+    ]
+  },
+  {
+    "title": "Automatic Discourse Segmentation: an evaluation in French",
+    "answer": 794,
+    "evidence": [
+      "1",
+      "22",
+      "333"
+    ]
+  },
+  {
+    "title": "Multipurpose Intelligent Process Automation via Conversational Assistant",
+    "answer": 657,
+    "evidence": [
+      "1",
+      "22"
+    ]
+  },
+  {
+    "title": "Winograd Schemas and Machine Translation",
+    "answer": 662,
+    "evidence": [
+      "1",
+      "22"
+    ]
+  },
+  {
+    "title": "Stance Detection in Turkish Tweets",
+    "answer": 737,
+    "evidence": [
+      "1"
+    ]
+  },
+  {
+    "title": "Artificial Error Generation with Machine Translation and Syntactic Patterns",
+    "answer": 539,
+    "evidence": [
+      "1",
+      "22",
+      "333"
+    ]
+  },
+  {
+    "title": "Multilingual Clustering of Streaming News",
+    "answer": 724,
+    "evidence": [
+      "1",
+      "22",
+      "333"
+    ]
+  },
+  {
+    "title": "TTTTTackling WinoGrande Schemas",
+    "answer": 678,
+    "evidence": [
+      "1"
+    ]
+  },
+  {
+    "title": "A Neural Approach to Irony Generation",
+    "answer": 511,
+    "evidence": [
+      "1"
+    ]
+  },
+  {
+    "title": "Deep Learning for Detecting Cyberbullying Across Multiple Social Media Platforms",
+    "answer": 550,
+    "evidence": [
+      "1",
+      "22"
+    ]
+  },
+  {
+    "title": "Evaluating Tag Recommendations for E-Book Annotation Using a Semantic Similarity Metric",
+    "answer": 767,
+    "evidence": [
+      "1",
+      "22",
+      "333"
+    ]
+  },
+  {
+    "title": "STEP: Sequence-to-Sequence Transformer Pre-training for Document Summarization",
+    "answer": 975,
+    "evidence": [
+      "1",
+      "22",
+      "333"
+    ]
+  },
+  {
+    "title": "MCScript: A Novel Dataset for Assessing Machine Comprehension Using Script Knowledge",
+    "answer": 654,
+    "evidence": [
+      "1",
+      "22"
+    ]
+  },
+  {
+    "title": "Explicit Utilization of General Knowledge in Machine Reading Comprehension",
+    "answer": 725,
+    "evidence": [
+      "1"
+    ]
+  },
+  {
+    "title": "ZuCo 2.0: A Dataset of Physiological Recordings During Natural Reading and Annotation",
+    "answer": 999,
+    "evidence": [
+      "1",
+      "22"
+    ]
+  },
+  {
+    "title": "Joint Detection and Location of English Puns",
+    "answer": 771,
+    "evidence": [
+      "1",
+      "22"
+    ]
+  },
+  {
+    "title": "Macaw: An Extensible Conversational Information Seeking Platform",
+    "answer": 629,
+    "evidence": [
+      "1",
+      "22",
+      "333"
+    ]
+  },
+  {
+    "title": "Explaining Recurrent Neural Network Predictions in Sentiment Analysis",
+    "answer": 540,
+    "evidence": [
+      "1"
+    ]
+  },
+  {
+    "title": "Incorporating Priors with Feature Attribution on Text Classification",
+    "answer": 741,
+    "evidence": [
+      "1"
+    ]
+  },
+  {
+    "title": "CN-CELEB: a challenging Chinese speaker recognition dataset",
+    "answer": 813,
+    "evidence": [
+      "1"
+    ]
+  },
+  {
+    "title": "Retrieval-based Goal-Oriented Dialogue Generation",
+    "answer": 545,
+    "evidence": [
+      "1",
+      "22",
+      "333"
+    ]
+  },
+  {
+    "title": "VQABQ: Visual Question Answering by Basic Questions",
+    "answer": 960,
+    "evidence": [
+      "1",
+      "22",
+      "333"
+    ]
+  },
+  {
+    "title": "Analysis of Speeches in Indian Parliamentary Debates",
+    "answer": 778,
+    "evidence": [
+      "1",
+      "22"
+    ]
+  },
+  {
+    "title": "Recurrently Controlled Recurrent Networks",
+    "answer": 655,
+    "evidence": [
+      "1"
+    ]
+  },
+  {
+    "title": "Aspect Term Extraction with History Attention and Selective Transformation",
+    "answer": 852,
+    "evidence": [
+      "1",
+      "22"
+    ]
+  },
+  {
+    "title": "Gating Mechanisms for Combining Character and Word-level Word Representations: An Empirical Study",
+    "answer": 747,
+    "evidence": [
+      "1",
+      "22",
+      "333"
+    ]
+  },
+  {
+    "title": "Discriminative Acoustic Word Embeddings: Recurrent Neural Network-Based Approaches",
+    "answer": 786,
+    "evidence": [
+      "1",
+      "22"
+    ]
+  },
+  {
+    "title": "Voice Transformer Network: Sequence-to-Sequence Voice Conversion Using Transformer with Text-to-Speech Pretraining",
+    "answer": 984,
+    "evidence": [
+      "1",
+      "22",
+      "333"
+    ]
+  },
+  {
+    "title": "Transductive Learning with String Kernels for Cross-Domain Text Classification",
+    "answer": 744,
+    "evidence": [
+      "1",
+      "22"
+    ]
+  },
+  {
+    "title": "A Comparative Evaluation of Visual and Natural Language Question Answering Over Linked Data",
+    "answer": 714,
+    "evidence": [
+      "1"
+    ]
+  },
+  {
+    "title": "Data Mining in Clinical Trial Text: Transformers for Classification and Question Answering Tasks",
+    "answer": 633,
+    "evidence": [
+      "1",
+      "22",
+      "333"
+    ]
+  },
+  {
+    "title": "Multilingual Twitter Corpus and Baselines for Evaluating Demographic Bias in Hate Speech Recognition",
+    "answer": 614,
+    "evidence": [
+      "1",
+      "22"
+    ]
+  },
+  {
+    "title": "Casting Light on Invisible Cities: Computationally Engaging with Literary Criticism",
+    "answer": 815,
+    "evidence": [
+      "1",
+      "22",
+      "333"
+    ]
+  },
+  {
+    "title": "Impact of Coreference Resolution on Slot Filling",
+    "answer": 558,
+    "evidence": [
+      "1",
+      "22"
+    ]
+  },
+  {
+    "title": "NIHRIO at SemEval-2018 Task 3: A Simple and Accurate Neural Network Model for Irony Detection in Twitter",
+    "answer": 946,
+    "evidence": [
+      "1",
+      "22"
+    ]
+  },
+  {
+    "title": "Measuring Conversational Fluidity in Automated Dialogue Agents",
+    "answer": 762,
+    "evidence": [
+      "1",
+      "22"
+    ]
+  },
+  {
+    "title": "RelNet: End-to-End Modeling of Entities & Relations",
+    "answer": 900,
+    "evidence": [
+      "1",
+      "22",
+      "333"
+    ]
+  },
+  {
+    "title": "Is there Gender bias and stereotype in Portuguese Word Embeddings?",
+    "answer": 789,
+    "evidence": [
+      "1",
+      "22",
+      "333"
+    ]
+  },
+  {
+    "title": "Named Entity Recognition with Partially Annotated Training Data",
+    "answer": 994,
+    "evidence": [
+      "1",
+      "22"
+    ]
+  },
+  {
+    "title": "Improved Semantic-Aware Network Embedding with Fine-Grained Word Alignment",
+    "answer": 802,
+    "evidence": [
+      "1",
+      "22"
+    ]
+  },
+  {
+    "title": "Efficient Vector Representation for Documents through Corruption",
+    "answer": 902,
+    "evidence": [
+      "1",
+      "22",
+      "333"
+    ]
+  },
+  {
+    "title": "Learning to Rank Scientific Documents from the Crowd",
+    "answer": 504,
+    "evidence": [
+      "1",
+      "22"
+    ]
+  },
+  {
+    "title": "StructSum: Incorporating Latent and Explicit Sentence Dependencies for Single Document Summarization",
+    "answer": 757,
+    "evidence": [
+      "1"
+    ]
+  },
+  {
+    "title": "IIIDYT at SemEval-2018 Task 3: Irony detection in English tweets",
+    "answer": 742,
+    "evidence": [
+      "1"
+    ]
+  },
+  {
+    "title": "Czech Text Processing with Contextual Embeddings: POS Tagging, Lemmatization, Parsing and NER",
+    "answer": 753,
+    "evidence": [
+      "1",
+      "22",
+      "333"
+    ]
+  },
+  {
+    "title": "Generaci\\'on autom\\'atica de frases literarias en espa\\~nol",
+    "answer": 826,
+    "evidence": [
+      "1",
+      "22"
+    ]
+  },
+  {
+    "title": "Learning Supervised Topic Models for Classification and Regression from Crowds",
+    "answer": 674,
+    "evidence": [
+      "1"
+    ]
+  },
+  {
+    "title": "An Unsupervised Word Sense Disambiguation System for Under-Resourced Languages",
+    "answer": 515,
+    "evidence": [
+      "1"
+    ]
+  },
+  {
+    "title": "Bleaching Text: Abstract Features for Cross-lingual Gender Prediction",
+    "answer": 946,
+    "evidence": [
+      "1"
+    ]
+  },
+  {
+    "title": "Interactive Machine Comprehension with Information Seeking Agents",
+    "answer": 864,
+    "evidence": [
+      "1",
+      "22"
+    ]
+  },
+  {
+    "title": "Stay On-Topic: Generating Context-specific Fake Restaurant Reviews",
+    "answer": 652,
+    "evidence": [
+      "1",
+      "22",
+      "333"
+    ]
+  },
+  {
+    "title": "Investigating Robustness and Interpretability of Link Prediction via Adversarial Modifications",
+    "answer": 549,
+    "evidence": [
+      "1"
+    ]
+  },
+  {
+    "title": "Basic tasks of sentiment analysis",
+    "answer": 991,
+    "evidence": [
+      "1",
+      "22",
+      "333"
+    ]
+  },
+  {
+    "title": "Towards Detection of Subjective Bias using Contextualized Word Embeddings",
+    "answer": 540,
+    "evidence": [
+      "1",
+      "22",
+      "333"
+    ]
+  },
+  {
+    "title": "Dreaddit: A Reddit Dataset for Stress Analysis in Social Media",
+    "answer": 799,
+    "evidence": [
+      "1",
+      "22"
+    ]
+  },
+  {
+    "title": "Language Identification on Massive Datasets of Short Message using an Attention Mechanism CNN",
+    "answer": 613,
+    "evidence": [
+      "1",
+      "22"
+    ]
+  },
+  {
+    "title": "Interpretable Visual Question Answering by Visual Grounding from Attention Supervision Mining",
+    "answer": 935,
+    "evidence": [
+      "1"
+    ]
+  },
+  {
+    "title": "Neural Word Segmentation with Rich Pretraining",
+    "answer": 887,
+    "evidence": [
+      "1",
+      "22"
+    ]
+  },
+  {
+    "title": "Learning to Discover, Ground and Use Words with Segmental Neural Language Models",
+    "answer": 809,
+    "evidence": [
+      "1"
+    ]
+  },
+  {
+    "title": "Autocompletion interfaces make crowd workers slower, but their use promotes response diversity",
+    "answer": 799,
+    "evidence": [
+      "1",
+      "22",
+      "333"
+    ]
+  },
+  {
+    "title": "Stance Classification for Rumour Analysis in Twitter: Exploiting Affective Information and Conversation Structure",
+    "answer": 909,
+    "evidence": [
+      "1",
+      "22",
+      "333"
+    ]
+  },
+  {
+    "title": "CAiRE: An End-to-End Empathetic Chatbot",
+    "answer": 764,
+    "evidence": [
+      "1",
+      "22"
+    ]
+  },
+  {
+    "title": "Using Whole Document Context in Neural Machine Translation",
+    "answer": 994,
+    "evidence": [
+      "1",
+      "22",
+      "333"
+    ]
+  },
+  {
+    "title": "Rnn-transducer with language bias for end-to-end Mandarin-English code-switching speech recognition",
+    "answer": 929,
+    "evidence": [
+      "1"
+    ]
+  },
+  {
+    "title": "MDE: Multi Distance Embeddings for Link Prediction in Knowledge Graphs",
+    "answer": 981,
+    "evidence": [
+      "1"
+    ]
+  },
+  {
+    "title": "Hearst Patterns Revisited: Automatic Hypernym Detection from Large Text Corpora",
+    "answer": 896,
+    "evidence": [
+      "1",
+      "22"
+    ]
+  },
+  {
+    "title": "Attention Optimization for Abstractive Document Summarization",
+    "answer": 748,
+    "evidence": [
+      "1"
+    ]
+  }
+]
