@@ -1,0 +1,11 @@
+torch
+numpy
+faiss-cpu
+sentence-transformers
+rank-bm25
+langchain-openai
+langchain-core
+langchain-community
+langchain-text-splitters
+rouge-score
+rich
